@@ -1,0 +1,19 @@
+{
+  "name": "ReactTytorial",
+  "version": "1.0.0",
+  "description": "\"Ejemplo de uso de react.js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielAguirre/ReactTutorial.git"
+  },
+  "author": "Daniel Alejandro Aguirre Linares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAguirre/ReactTutorial/issues"
+  },
+  "homepage": "https://github.com/DanielAguirre/ReactTutorial"
+}
